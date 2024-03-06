@@ -1,3 +1,4 @@
+import { FaSearch } from "react-icons/fa";
 const Banner = () => {
   return (
     <div className="">
@@ -7,7 +8,7 @@ const Banner = () => {
             <span className=" text-white">Welcome To</span> AirBook
           </h1>
           <div className="absolute h-[300px] w-[1280px] bg-white mt-44 rounded-xl">
-           <div className="flex gap-2 pt-12 pl-12">
+           <div className="flex gap-2 pt-16 pb-4 pl-12">
            <div className="max-w-32 p-2 bg-gray-200 rounded-md flex gap-2">
                 <div>
                     <input type="radio" />
@@ -21,9 +22,9 @@ const Banner = () => {
                 <h6>Round Trip</h6>
             </div>
            </div>
-           <div className="flex gap-2 pt-2 pl-12">
-           <div className="max-w-65 p-2 bg-gray-200 rounded-md flex gap-2">
-                <div className="border-r-2 border-white h-full items-center">
+           <div className="flex gap-8 pt-2 pl-12">
+           <div className="max-w-70 p-6 border rounded-lg flex gap-2">
+                <div className="border-r-2 border-gray-200 h-full items-center">
                     <h5 className="pr-2 h-full items-center flex">DAC</h5>
                 </div>
                 <div className="">
@@ -32,18 +33,18 @@ const Banner = () => {
                 </div>
                
             </div>
-           <div className="max-w-65 p-2 bg-gray-200 rounded-md flex gap-2">
-                <div className="border-r-2 border-white h-full items-center">
-                    <h5 className="pr-2 h-full items-center flex">DAC</h5>
+           <div className="max-w-70 p-6 border rounded-lg flex gap-2">
+                <div className="border-r-2 border-gray-200 h-full items-center">
+                    <h5 className="pr-2 h-full items-center flex">Cxb</h5>
                 </div>
                 <div className="">
-                    <h3>Cxb</h3>
+                    <h3>Cox Bazar</h3>
                     <p>Cox Bazar International</p>
                 </div>
                
             </div>
-           <div className="max-w-65 p-2 bg-gray-200 rounded-md flex gap-2">
-                <div className="border-r-2 border-white h-full items-center">
+           <div className="max-w-70 p-6 border rounded-lg flex gap-2">
+                <div className="border-r-2 border-gray-200 h-full items-center">
                     <h5 className="pr-2 h-full items-center flex">03</h5>
                 </div>
                 <div className="">
@@ -52,8 +53,8 @@ const Banner = () => {
                 </div>
                
             </div>
-           <div className="max-w-65 p-2 bg-gray-200 rounded-md flex gap-2">
-                <div className="border-r-2 border-white h-full items-center">
+           <div className="max-w-70 p-6 border rounded-md flex gap-2">
+                <div className="border-r-2 border-gray-200 h-full items-center">
                     <h5 className="pr-2 h-full items-center flex">05</h5>
                 </div>
                 <div className="">
@@ -62,7 +63,13 @@ const Banner = () => {
                 </div>
                
             </div>
-            <button>kd</button>
+           <div className="max-w-70 p-6 bg-warning rounded-md flex gap-2">
+           <button className="btn btn-warning">
+                <FaSearch className="text-4xl"></FaSearch>
+            </button>
+               
+            </div>
+           
            </div>
           </div>
         </div>
