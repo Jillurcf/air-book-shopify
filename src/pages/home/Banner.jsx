@@ -39,7 +39,7 @@ const Banner = () => {
               </div>
             </div>
             </div>
-            <div className="grid lg:grid-cols-5 md:grid-cols-2 lg:gap-2 lg:pt-6 min-[375px]:pt-8 min-[425px]:pt-12 lg:pl-12 min-[320px]:pl-6 min-[375px]:pl-12 min-[425px]:pl-20">
+            <div className=" grid lg:grid-cols-5 md:grid-cols-2 lg:gap-2 lg:pt-6 min-[375px]:pt-8 min-[425px]:pt-12 lg:pl-12 min-[320px]:pl-6 min-[375px]:pl-12 min-[425px]:pl-20">
               <div className="lg:p-2 p-2 border rounded-lg flex gap-2">
                 <div className="border-r-2 border-gray-200 h-full items-center">
                   <h5 className="pr-2 h-full items-center flex">DAC</h5>
@@ -58,7 +58,7 @@ const Banner = () => {
                   <p>Cox Bazar International</p>
                 </div>
               </div>
-              <div className="lg:p-2 p-2 border rounded-lg flex gap-2">
+              <div className="p-6 border rounded-md flex gap-2">
                 <div className="border-r-2 border-gray-200 h-full items-center">
                   <h5 className="pr-2 h-full items-center flex">03</h5>
                 </div>

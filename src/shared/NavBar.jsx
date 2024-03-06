@@ -46,7 +46,7 @@ const NavBar = () => {
     </>
   );
   return (
-    <div className="max-w-screen-xl mx-auto">
+    <div className="max-w-screen-xl mx-auto sticky">
       <div className="navbar bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
