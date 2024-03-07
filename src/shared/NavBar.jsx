@@ -74,7 +74,7 @@ const NavBar = () => {
             </ul>
           </div>
           {/* <a className="btn btn-ghost text-xl"> */}
-            <img className="" src="/src/assets/Image/Logo/LOGO.png" alt="" />
+            <img className="" src="/src/assets/Image/Logo/image.png" alt="" />
           {/* </a> */}
         </div>
         <div className="navbar-center hidden lg:flex">
