@@ -4,7 +4,7 @@ const Subscription = () => {
     return (
         <div className="md:flex max-w-screen-xl mx-auto mt-24 justify-around px-8 lg:px-0   ">
             <div>
-                <img className="md:w-3/4 lg:w-full" src="/src/assets/Image/News letter/Isolation_Mode.png" alt="" />
+                <img className="md:w-3/4 lg:w-full" src="https://i.ibb.co/7Vj5f04/Isolation-Mode.png" alt="" />
             </div>
             <div>
                 <h1 className="text-4xl font-bold py-4">Subscribe To Our <br />

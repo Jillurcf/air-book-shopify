@@ -40,7 +40,7 @@ const Footer = () => {
       <div className="w-full h-[1px] bg-white"></div>
       <div className="grid lg:gap-36 gap-4 lg:grid-cols-3 py-8">
         <div>
-            <img className="pl-8 lg:pl-0" src="/src/assets/Image/Logo/LOGO.png" alt="" />
+            <img className="pl-8 lg:pl-0" src="https://i.ibb.co/4jHQV4B/image.png" alt="" />
         </div>
         <div><h1 className="text-white pl-8 lg:pl-0">@Copyright AIRBOOK</h1></div>
         <div className="flex gap-6 pl-8 lg:pl-0 text-white lg:text-2xl">

@@ -85,7 +85,7 @@ const Banner = () => {
           </div>
         </div>
 
-        <img src="/src/assets/Image/Hero Image/Rectangle-2.png" alt="image" />
+        <img src="https://i.ibb.co/dQXjqQZ/Rectangle-2.png" alt="image" />
       </div>
     </div>
   );

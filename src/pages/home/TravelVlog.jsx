@@ -16,7 +16,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18.png"
+                    src="https://i.ibb.co/rfprJh8/Rectangle-18.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -39,7 +39,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-30.png"
+                            src="https://i.ibb.co/SBnD1rC/Rectangle-30.png"
                             alt=""
                           />
                         </div>
@@ -58,7 +58,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18-1.png"
+                    src="https://i.ibb.co/3dr0L3K/Rectangle-18-1.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -81,7 +81,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-32.png"
+                            src="https://i.ibb.co/bQGxPxn/Rectangle-32.png"
                             alt=""
                           />
                         </div>
@@ -100,7 +100,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18-2.png"
+                    src="https://i.ibb.co/WnFrD9X/Rectangle-18-2.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -123,7 +123,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-33.png"
+                            src="https://i.ibb.co/SBnD1rC/Rectangle-30.png"
                             alt=""
                           />
                         </div>
@@ -146,7 +146,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18.png"
+                    src="https://i.ibb.co/rfprJh8/Rectangle-18.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -169,7 +169,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-30.png"
+                            src="https://i.ibb.co/SBnD1rC/Rectangle-30.png"
                             alt=""
                           />
                         </div>
@@ -188,7 +188,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18-1.png"
+                    src="https://i.ibb.co/3dr0L3K/Rectangle-18-1.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -211,7 +211,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-32.png"
+                            src="https://i.ibb.co/bQGxPxn/Rectangle-32.png"
                             alt=""
                           />
                         </div>
@@ -230,7 +230,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18-2.png"
+                    src="https://i.ibb.co/WnFrD9X/Rectangle-18-2.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -253,7 +253,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-33.png"
+                            src="https://i.ibb.co/SBnD1rC/Rectangle-30.png"
                             alt=""
                           />
                         </div>
@@ -276,7 +276,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18.png"
+                    src="https://i.ibb.co/rfprJh8/Rectangle-18.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -299,7 +299,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-30.png"
+                            src="https://i.ibb.co/SBnD1rC/Rectangle-30.png"
                             alt=""
                           />
                         </div>
@@ -318,7 +318,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18-1.png"
+                    src="https://i.ibb.co/3dr0L3K/Rectangle-18-1.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -341,7 +341,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-32.png"
+                            src="https://i.ibb.co/bQGxPxn/Rectangle-32.png"
                             alt=""
                           />
                         </div>
@@ -360,7 +360,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18-2.png"
+                    src="https://i.ibb.co/WnFrD9X/Rectangle-18-2.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -383,7 +383,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-33.png"
+                            src="https://i.ibb.co/SBnD1rC/Rectangle-30.png"
                             alt=""
                           />
                         </div>
@@ -406,7 +406,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18.png"
+                    src="https://i.ibb.co/rfprJh8/Rectangle-18.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -429,7 +429,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-30.png"
+                            src="https://i.ibb.co/SBnD1rC/Rectangle-30.png"
                             alt=""
                           />
                         </div>
@@ -448,7 +448,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18-1.png"
+                    src="https://i.ibb.co/3dr0L3K/Rectangle-18-1.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -471,7 +471,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-32.png"
+                            src="https://i.ibb.co/bQGxPxn/Rectangle-32.png"
                             alt=""
                           />
                         </div>
@@ -490,7 +490,7 @@ const TravelVlog = () => {
               <div className="card w-full bg-base-100 shadow-xl">
                 <figure>
                   <img
-                    src="/src/assets/Image/Thumbnail/Rectangle-18-2.png"
+                    src="https://i.ibb.co/WnFrD9X/Rectangle-18-2.png"
                     alt="Shoes"
                   />
                 </figure>
@@ -513,7 +513,7 @@ const TravelVlog = () => {
                         <div className="h-[50px] w-[50px] rounded-full">
                           <img
                             className="rounded-full h-[25px] w-[25px]"
-                            src="/src/assets/Image/testimonial/Rectangle-33.png"
+                            src="https://i.ibb.co/SBnD1rC/Rectangle-30.png"
                             alt=""
                           />
                         </div>
@@ -531,6 +531,7 @@ const TravelVlog = () => {
              
             </div>
           </SwiperSlide>
+         
         </Swiper>
       </div>
     </div>

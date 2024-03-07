@@ -20,7 +20,7 @@ export default function Testimonials() {
               <div className="hero">
                 <div className="hero-content flex-col lg:flex-row">
                   <img
-                    src="/src/assets/Image/testimonial/Rectangle-30.png"
+                    src="https://i.ibb.co/TwcbSqG/Rectangle-30.png"
                     className="max-w-sm rounded-lg shadow-2xl"
                   />
                   <div>
@@ -65,7 +65,7 @@ export default function Testimonials() {
               <div className="hero">
                 <div className="hero-content flex-col lg:flex-row">
                   <img
-                    src="/src/assets/Image/testimonial/Rectangle-32.png"
+                    src="https://i.ibb.co/WDDyQZB/Rectangle-32.png"
                     className="max-w-sm rounded-lg shadow-2xl"
                   />
                   <div>
@@ -110,7 +110,7 @@ export default function Testimonials() {
               <div className="hero">
                 <div className="hero-content flex-col lg:flex-row">
                   <img
-                    src="/src/assets/Image/testimonial/Rectangle-33.png"
+                    src="https://i.ibb.co/kSVfF30/Rectangle-33.png"
                     className="max-w-sm rounded-lg shadow-2xl"
                   />
                   <div>
@@ -155,7 +155,7 @@ export default function Testimonials() {
               <div className="hero">
                 <div className="hero-content flex-col lg:flex-row">
                   <img
-                    src="/src/assets/Image/testimonial/Rectangle-32.png"
+                    src="https://i.ibb.co/kSVfF30/Rectangle-33.png"
                     className="max-w-sm rounded-lg shadow-2xl"
                   />
                   <div>
