@@ -1,24 +1,20 @@
-// import React, { useRef, useState } from 'react';
-// Import Swiper React components
+
 import { Swiper, SwiperSlide } from "swiper/react";
 
-// Import Swiper styles
 import "swiper/css";
 import "swiper/css/navigation";
 
-// import './styles.css';
 
-// import required modules
 import { Navigation } from "swiper/modules";
 
 export default function Testimonials() {
   return (
-    <div className="mt-12">
+    <div className="mt-24">
       <h1 className="max-w-screen-xl mx-auto text-4xl font-bold pb-12 md:pl-8 px-8">
         Testimonials
       </h1>
       <div className="bg-blue-400 px-8 ">
-        <div className="max-w-screen-xl mx-auto h-84 md:px-8">
+        <div className="max-w-screen-xl mx-auto h-84 md:px-8 bg-white">
           <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
             <SwiperSlide>
               <div className="hero">
